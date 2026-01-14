@@ -1,6 +1,6 @@
 # Hi there, I'm Vincenzo
 
-I am a **Computer Science undergraduate** at the **University of Bologna** with a strong foundation in competitive programming.
+I am a **Computer Science undergraduate** at the **University of Bologna** with experience in Competitive Programming and Italian Cybersecurity Olympiads.
 
 Currently, I focus on developing full-stack web architectures with a strict adherence to **AppSec** principles, ensuring that security is baked in from the first line of code. Moving forward, my goal is to engineer specialized tools for **OpSec** (Operational Security) to enhance privacy and operational integrity in hostile environments.
 
